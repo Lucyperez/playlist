@@ -1,5 +1,6 @@
 h1 {
     text-align: center;
+    color:white;
 }
 
 #cart {
@@ -63,4 +64,13 @@ input {
 button {
     font-size: 14px;
     padding: 5px 10px;
+}
+
+body{
+    background-image:url(https://watermark.lovepik.com/photo/50051/5147.jpg_wh1200.jpg); 
+}
+
+p {
+    background-color: indigo;
+    color:white;
 }
